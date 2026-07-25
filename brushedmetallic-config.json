@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.4",
+  "latestVersionCode": 11,
+  "minimumAllowedVersionCode": 11,
+  "disableRequest": {
+    "below": 11,
+    "on": "10, 9"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.brushedmetalliciconpack",
+  "releaseNotes": [
+    "Added new icons"
+  ]
+}
