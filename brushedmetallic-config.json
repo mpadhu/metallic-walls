@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.5",
-  "latestVersionCode": 12,
-  "minimumAllowedVersionCode": 12,
+  "latestVersion": "1.6",
+  "latestVersionCode": 13,
+  "minimumAllowedVersionCode": 13,
   "disableRequest": {
-    "below": 12,
-    "on": "11, 10"
+    "below": 13,
+    "on": "12, 11, 10"
   },
   "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.brushedmetalliciconpack",
   "releaseNotes": [
